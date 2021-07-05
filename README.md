@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ZzCoding530&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 
 - 🔭  每天记得仰望星空
-- 👨🏻‍💻  日常使用Java做leetcode、C++做毕设相关、Golang是爱好
+- 👨🏻‍💻  日常使用Golang/Java做leetcode、C++做毕设相关、Python调包侠
 - 🌱  希望可以与聪明人共事、成为后端开发专家
 - 📫  邮箱 rookiezc@163.com
 - 🐋  我的学习记录、读书笔记发布在[掘金](https://juejin.cn/user/2532928622173070)
@@ -20,11 +20,12 @@
 - [x] 《TCP/IP详解卷1》
 - [x] 《计算机网络：自顶向下方法》
 - [x] 《HTTP/2 in Action》
-- [ ] 《算法4》
-- [ ] 《算法导论》
-- [ ] 《数据结构与算法分析》
-- [ ] 《Go程序设计语言》
-- [ ] 《深入理解Java虚拟机》
+- [x] 《算法4》
+- [x] 《算法导论》
+- [x] 《数据结构与算法分析》
+- [x] 《Go程序设计语言》
+- [x] 《深入理解Java虚拟机》
+- [ ] 《分布式一致性算法》
 - [ ] 《Netty4核心原理》
 
 
