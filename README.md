@@ -1,17 +1,15 @@
-###  Hi，我是周淮安 🥳 🇨🇳
-#### 梦想是一个大平层 + 一辆530li,on my own
+###  Hi，All 🥳 🇨🇳
+#### 梦想是一个大平层 + 一辆530li,on my own(530已经问题不大啦)
 <img src="https://github-readme-stats.vercel.app/api?username=ZzCoding530&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 
 - 🔭  每天记得仰望星空
-- 👨🏻‍💻  日常使用Golang/Java做leetcode、C++做毕设相关、Python调包侠
+- 👨🏻‍💻  日常使用Golang/Python搬砖,Java、C++只是够应付面试
 - 🌱  希望可以与聪明人共事、成为后端开发专家
-- 📫  邮箱 rookiezc@163.com
-- 🐋  我的学习记录、读书笔记发布在[掘金](https://juejin.cn/user/2532928622173070)
-- 🦈  有空会把leetcode经典题目录制讲解上传[B站](https://space.bilibili.com/15144943/channel/detail?cid=171969)让自己理清思路、加深理解也方便实验室学弟学习
-- 🏊‍♀️  教会了四名同学游泳、高中篮球联赛亚军、市足球联赛亚军，有关这三项运动想进步的也欢迎与我交流哦
-- 🙌🏼  美剧英剧爱好者，《Billions》看了三遍，欢迎给我推荐好看的剧
+- 📫  邮箱 giraffealex@163.com
+- 🐋  ！！！应届生面试辅导正在招生哦！！！24届快抓紧名额啦，真的没有那么多时间招很多人。
 
-**下面书单目前因为时间关系在通读，希望可以秋招早日胜利安心细读**
+
+**推荐反复阅读的书单**
 - [x] 《深入理解计算机操作系统》
 - [x] 《现代操作系统》   但epoll和select相关，各种IO还未总结
 - [x] 《操作系统导论》
