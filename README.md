@@ -1,4 +1,5 @@
 ###  Hi，All 🥳 🇨🇳
+#应届生面试辅导正在招生！！！24届快抓紧名额啦，真的没有那么多时间招很多人。
 #### 梦想是一个大平层 + 一辆530li,on my own(530已经问题不大啦)
 <img src="https://github-readme-stats.vercel.app/api?username=ZzCoding530&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
 
@@ -6,7 +7,7 @@
 - 👨🏻‍💻  日常使用Golang/Python搬砖,Java、C++只是够应付面试
 - 🌱  希望可以与聪明人共事、成为后端开发专家
 - 📫  邮箱 giraffealex@163.com
-- 🐋  ！！！应届生面试辅导正在招生哦！！！24届快抓紧名额啦，真的没有那么多时间招很多人。
+
 
 
 **推荐反复阅读的书单**
